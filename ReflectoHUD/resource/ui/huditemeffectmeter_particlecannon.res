@@ -15,8 +15,8 @@
 		"tall"			"50"
 
 		"x_offset_minmode"		"0"	
-		"xpos_minmode"	"r52"	
-		"ypos_minmode"	"r68"	
+		"xpos_minmode"	"c55"	
+		"ypos_minmode"	"c60"	
 	}
 	
 	"ItemEffectMeterBG"		// DRINK BG
